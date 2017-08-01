@@ -1,13 +1,13 @@
 <?php
 
-// function addition($a, $b) {
-//   return $a + $b;
-// }
-//
-// $result = addition(2, 3);
-//
-// echo $result;
-// echo "<br />\n";
+function addition($a, $b) {
+  return $a + $b;
+ }
+
+$result = addition(2, 3);
+
+echo $result;
+echo "<br />\n";
 
 //créer une fonction qui :
 // - prend une variable en paramètre

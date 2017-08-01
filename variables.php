@@ -1,6 +1,7 @@
 <?php
 
 //déclaration et initialisation de variables
+
 $integer = 123;
 $float = 3.14;
 $text = "blabla";
@@ -10,6 +11,7 @@ $boolean2 = false;
 
 
 //affichage de variables
+
 echo $integer;
 echo "<br />\n";
 
